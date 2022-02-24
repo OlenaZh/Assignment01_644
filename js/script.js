@@ -136,8 +136,8 @@
     //let x = 20;
     //let y = 10;
     //if (x === 20 && y !== 10) {
-    //    window.console.log("true");
+        //window.console.log("true");
     //} else {
-    // window.console.log("false");
+     //window.console.log("false");
     //}
 
